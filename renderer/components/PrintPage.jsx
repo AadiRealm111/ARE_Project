@@ -1,5 +1,5 @@
-import React from 'react'
-import styles from '../style'
+import React from "react";
+import styles from "../style";
 
 const Printpage = React.forwardRef((props, ref) => {
   console.log(props)
@@ -104,5 +104,4 @@ const Printpage = React.forwardRef((props, ref) => {
     </div>
   )
 })
-
-export default Printpage
+export default Printpage;

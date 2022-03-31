@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "ARE_Project",
-  "description": "My application description",
+  "description": "Program to calculate Hoek-Brown Parameters",
   "version": "1.0.0",
   "author": "Shadow",
   "main": "app/background.js",
